@@ -1,8 +1,8 @@
-##Overview
+# Overview
 
 The Company Retail Dashboard is a Power BI project that aims to provide real-time insights for data-driven decision-making within a retail company. It features interactive data visualization tools, including an interactive map, product and customer profiles, to enhance geographical analysis and facilitate comprehensive data analysis for improved business strategies.
 
-##Features
+# Features
 
 Executive Dashboard: The dashboard offers real-time insights that are crucial for making data-driven decisions at an executive level.
 
